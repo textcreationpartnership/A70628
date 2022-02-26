@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Most serious expostulation with several of my fellow-citizens in reference to their standing so high for the D.Y.'s interest at this juncture of time</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70628</idno>
+            <idno type="STC">Wing M2919A</idno>
+            <idno type="STC">ESTC R14647</idno>
+            <idno type="EEBO-CITATION">13338990</idno>
+            <idno type="OCLC">ocm 13338990</idno>
+            <idno type="VID">99128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99128)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 443:17 or 1730:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Most serious expostulation with several of my fellow-citizens in reference to their standing so high for the D.Y.'s interest at this juncture of time</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The D.Y.'s in title refers to the Duke of York. Cf. BM.</note>
+                  <note>This item appears at reel 443:17 as Wing Y1 (number cancelled in Wing 2nd ed.), and at reel 1730:7 as Wing M2919A.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of originals in Huntington Library and Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99128:1"/>
+            <pb n="1" facs="tcp:99128:1" rendition="simple:additions"/>
+            <head>A MOST SERIOUS EXPOSTULATION With ſeveral of my Fellow-Citizens In reference to their ſtanding ſo high for the <hi>D. Y's</hi> In<g ref="char:EOLhyphen"/>tereſt at this Juncture of time.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Hope no diſcreet and honeſt Perſon will look upon it as any Preſumption, but as ne<g ref="char:EOLhyphen"/>ceſſary Counſel, humbly to caution you (my Brethren) with my ſelf in time well to conſider, whither you are running: What it is that you are doing? Above all, it behoves you to conſider it at this time, why ſhould we delight in our own Deſtructi<g ref="char:EOLhyphen"/>on and help forward our own Ruine? Perhaps you may think that's ſtrange and impoſſible, that any ſhould be ſo weak, but yet 'tis no new thing, for ſome to be blinded, deluded, and beguiled, 'tis but what is and hath been too common in all Ages: though certainly for any Nation or Number of men to endeavour or effect their own Deſtruction, is one of the ſeve<g ref="char:EOLhyphen"/>reſt Judgments of God that can befall a People, I pray God, none of you may come under this Curſe, of having Eyes and Ears, and ſee and hear not, Hearts, and will not under<g ref="char:EOLhyphen"/>ſtand.</p>
+            <p n="2">2. But 'tis to be feared, that too many among you are running headlong the Path-way of Deſtruction, by endeavouring to foment Diviſion amongſt thoſe that are Proteſtants, and not only to keep open, but to widen the Breach betwixt the Church of <hi>England</hi> and other Proteſtants of different Perſwaſions; whereas neither of you can ever be ſafe if you do not both unite and joyn hand in hand againſt the Common Enemy, <hi>viz.</hi> the Papiſts and Popery, as the Caſe now ſtands with us.</p>
+            <p>This indeed may be unminded by many of you by Reaſon there are ſo many Blinds daily endeavoured to be put upon us under the Notion of the Church of <hi>England,</hi> whereas the Name of the Church of <hi>England</hi> is only made uſe of (by the Jeſuite Party) as the Papiſts Stalking-horſe, and not by the true Sons of the Church of <hi>England,</hi> but to blind them; as <hi>Coleman</hi>'s Declaration runs all in the name of the Church of <hi>England,</hi> though deſigned and penned by him and other Papiſts, the greateſt Enemies, in Truth, to the Church of <hi>England.</hi> And no Doubt but moſt of the Pamphlets that now come out under that Notion, are of the ſame Stamp, forged by the Jeſuits, thoſe Fire-brands of all <hi>Europe;</hi> you may eaſily gueſs at them <hi>by their Extenuating the Plot, and adviſing us not to have any Fears, but to leſſen our Guards in the City, by their endeavouring to create and encreaſe the Diviſions betwixt thoſe of the Church of</hi> England <hi>and other Proteſtants,</hi> which I am ſure no ſincere hearted Son of the Church would do at this time, but would diſown and diſclaim all ſuch Proceedings as ſpu<g ref="char:EOLhyphen"/>rious; you may eaſily know of what Kidney they are <hi>by their pleading for a Popiſh Succeſ<g ref="char:EOLhyphen"/>ſor,</hi> &amp;c.</p>
+            <p>Now Sirs, permit me to expoſtulate the Caſe, and tell you whoever you are that are for the D's Intereſt, in the Circumſtances as he now ſtands with <hi>England,</hi> are you not moſt cer<g ref="char:EOLhyphen"/>tainly (if you do but rightly underſtand your ſelves) for theſe three Intereſts, <hi>viz.</hi> Firſt for
+<pb n="2" facs="tcp:99128:2"/>the Pope and Papiſts Intereſt—Secondly, for the <hi>French</hi> Intereſt—Thirdly for Arbitrary Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>I pray you conſider, you that are for the D. in the Circumſtances he hath at preſent brought himſelf and the Nation under (by his Adhering to, and ſo much countenancing the Papiſts and French Intereſt) are you not in plain Engliſh, againſt theſe three things, though it may be ignorantly, yet in the ſequell it may prove ſo, <hi>viz.</hi>
+               <list>
+                  <item>1. Againſt the Intereſt of the Church of <hi>England</hi> and the Preteſtant Religion.</item>
+                  <item>2. Againſt the Intereſt of <hi>England</hi> your Native Country.</item>
+                  <item>3. Againſt the Intereſt of all Parliaments, and ſo againſt your own Free<g ref="char:EOLhyphen"/>domes and Liberties as you are Engliſhmen.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Solomon</hi> ſays, <hi>A wiſe mans Eyes are in his Head,</hi> and are not a Fool's too? Yes, but he makes no Uſe of them to foreſee the Evil and avoid it; and that we may not come under that Denomination, let us moſt ſeriouſly ponder and conſider theſe Particulars, for 'tis no leſs than your Religion, your Lives, your Liberties, your Eſtates, and your All that is concern<g ref="char:EOLhyphen"/>ed in the Conſequence of it.</p>
+            <p>Now to demonſtrate not only the Probability of its being ſo, but the Certainty of it, and the Impoſſibility of its being otherwiſe in all humane Appearance, I ſhall beg of you but to conſider of theſe things over again, <hi>viz.</hi>
+            </p>
+            <p>Firſt, If you ſtand for the D's Intereſt, do you not undoubtedly ſo far ſtand for the Pope and Popiſh Intereſt, yea, Jeſuites and all (the worſt of Papiſts) and by this you will give the greateſt Blow to the Church of <hi>England,</hi> that ever it had ſince it was a Church; pretend what you will for the Church of <hi>England,</hi> while you are for the D. you are certainly the greateſt Enemies of it; if you are for a Popiſh Succeſſor, or the D. as a Romaniſt; you are in Truth Enemies to the Church of <hi>England</hi> in Particular, and the Proteſtant Religion in General.</p>
+            <p>For can you once imagine that by bringing in a Popiſh Succeſſor, you will not inevitably ſet up Popery? Will ſuch a Succeſſor, think you, have ſo much Love for another Religion as his own, or for thoſe of another Profeſſion (whom by his Perſwaſion he is obliged to eſteem <hi>all damned Hereticks</hi>) as for thoſe of his own? therefore will it not naturally follow, that he will advance the one and diſcountenance and depreſs the other? nay, do you forget, that ſo far as he could, he lately did the ſame, when he was in Power, ſo that the moſt ready way to get into Office or Preferment, was either to turn Papiſt, or be a Favourer of them, and then ſuch were quickly brought in, made Governours of our Caſtles and Garriſons, Cap<g ref="char:EOLhyphen"/>tains and Colonels of our Forces, yea, even Captains of our Men of War, beſides hundreds of Places at Court no leſs than Lord High Treaſurer of <hi>England,</hi> witneſs <hi>Clifford,</hi> and lately one of the Clerks (if not more) under the Treaſurer <hi>Danby</hi> muſt be a deſpe<g ref="char:EOLhyphen"/>rate ſubtle <hi>Roman</hi> Catholick, for it ſeems he could find none ſo fit for him; and what will the Effect of this be in a little time think you? Will not this be a great weakening to the Church of <hi>England,</hi> to loſe ſo many Members as by theſe doings have within this ten years been ſeduced from her, and ſo many of her Members turned out and kept out of Places of Truſt, Profit and Honour, whilſt her Enemies are placed in them? and will not this think you, cauſe great Numbers to become <hi>Roman</hi> Catholicks, ſome for Favour, ſome for Fear, ſome for Offices, and others for Profit and by Perſwaſion, beſides very many by Example, who look upon it as a great Piece of Godlineſs, or at leaſt good Policy, to be of their Princes Religion? I wonder any man can be ſo weak as to think theſe Doings will make for the Intreſt of the Church of <hi>England,</hi> ſurely ſuch muſt ſtrangely be infatuated; and Beſides con<g ref="char:EOLhyphen"/>ſider, for you to endeavour to make one who is a <hi>Papiſt</hi> Head of the Church of <hi>England,</hi> you labour thereby to make our Church a great Monſter; for if our Head reckon (as he then muſt) us his Body, <hi>Hereticks, rotten and damned,</hi> where's our Body? Where will be our Church? What Agreement between the Head and Body? Will it not inevitably run into Confuſion? ſhall we have a Father of our Church, who by his own Faith is obliged, as much as he can, to deſtroy her, and is bound by the Romiſh Principles to deal with her as a Harlot? there<g ref="char:EOLhyphen"/>fore if you ſet up his Intereſt, farwell Church of <hi>England,</hi> farwel Proteſtant Religion in <hi>England,</hi> there's no Medium in the World, conſidering the Power, when in his hand, and the implacable Reſtleſneſs of the Jeſuits. Therefore ſeriouſly conſider of it, you ſee plainly that ſo far as you are for this Intereſt you are againſt the Church of <hi>England.</hi>
+            </p>
+            <p>Is it poſſible you can forget Queen <hi>Maries</hi> dayes? the number of Martyrs that then ſuffer<g ref="char:EOLhyphen"/>ed? enough to ſhew you the ſad Effects of a <hi>Popiſh</hi> Succeſſor's coming to the Crown; and
+<pb n="3" facs="tcp:99128:2"/>will you deſire to ſend your Selves, Wives, Children, Fathers and Mothers to the Stake to be burn'd for Hereticks? Read the Book of Martyrs, if theſe things ſo eaſily ſlip your mind: Oh! never forget her fine Wheedles to the <hi>Suffolk</hi> men, to aſſiſt her coming to the Crown, the fair promiſes ſhe made them; not to alter the leaſt point in their Religion, yet aſſoon as ſhe thereby obtained her End, ſhe burn'd more of them than of any County in <hi>England</hi> elſe: Remember how many ſhe martyred in the ſpace of four or five years; conſider what havock ſhe would have made with the Church of <hi>England,</hi> had ſhe Reigned forty or fifty years: undoubtedly ſhe would not by her good will have left one Proteſtant alive all over <hi>England:</hi> I ſay, conſider, would you have it ſo again? will you endeavour to put the Proteſtant Religion in as great hazard of the ſame Perſecution once more? Oh! let your Tongues rather cleave to your Mouthes, or your right hands periſh: Uſe your utmoſt Endeavours to prevent it, whilſt, in ſome meaſure, it is in your Power, leaſt, in a little time the Papiſts with their tricks put it out of your power, and when too late, you may relent with anguiſh of Soul, and without Remedy.</p>
+            <p>Secondly, If you are for the Succeſſion of the D. are you not for the <hi>French</hi> Intereſt; ſo conſe<g ref="char:EOLhyphen"/>quently againſt the Intereſt of <hi>England,</hi> your Native Countrey?</p>
+            <p>That this is ſo, I beg you conſider how the D. is linked with the <hi>French</hi> K. that cruel, blood-thirſty—*.</p>
+            <p>How the D. hath all along eſpouſed the <hi>French</hi> Intereſt, appears by the Letters brought to light in the Tryal of <hi>Coleman,</hi> (the <hi>D</hi>'s chief creature) there was no doubt about thoſe Let<g ref="char:EOLhyphen"/>ters, no not ſo much as denied. I pray do but call to mind ſome of thoſe Expreſſions in reference to the D. <hi>viz.</hi> page 45. <hi>Knowing the Intereſt of our King, and in a more particular man<g ref="char:EOLhyphen"/>ner, of my more immediate Maſter the</hi> DUKE, <hi>and his moſt Chriſtian Majeſty to be ſo inſe<g ref="char:EOLhyphen"/>parably united, that it was impoſſible to divide them, without deſtroying them all.</hi>
+            </p>
+            <p>
+               <hi>His Majeſty</hi> [the French King] <hi>was pleaſed to give order, to ſignifie to his</hi> R. H. <hi>my Maſter, that His Majeſty was fully ſatisfied of his</hi> R. H's. <hi>good Intentions towards him, and that he eſteemed both their Intereſts but as one and the ſame; that my Lord</hi> Arlington <hi>and the</hi> Parliament <hi>were both to be look'd upon as very unuſeful to their Intereſts.</hi>
+            </p>
+            <p>Page 46. <hi>Father</hi> Ferrier—<hi>begged his</hi> R. H. <hi>to propoſe to his moſt Chriſtian Majeſty what he thought neceſſary for his own Concern, and the advantage of Religion, and his Majeſty would cer<g ref="char:EOLhyphen"/>tainly do all he could to</hi> advance <hi>both, or either of them.</hi>
+            </p>
+            <p>— <hi>I communicated it to his</hi> R. H. <hi>to which his</hi> R. H. <hi>commanded me to Anſwer, as I did on the twenty ninth of the ſame Month, That his</hi> R. H. <hi>was very ſenſible of his moſt Chriſtian Ma<g ref="char:EOLhyphen"/>jeſties Friendſhip, and that he would labour to cultivate it with all the good Offices he was capable of doing for his Majeſty,</hi> [the French King] <hi>that he was fully convinced their Intereſts were</hi> BOTH ONE; <hi>that my Lord</hi> Arlington <hi>and the</hi> Parliament <hi>were not onely</hi> Unuſeful, <hi>but very</hi> DANGEROUS <hi>both to.</hi> England <hi>and</hi> France; <hi>that therefore it was neceſſary they ſhould do all they could to diſſolve it.</hi> page 53. <hi>I did communicate this Deſign of mine to Monſieur</hi> Ra<g ref="char:EOLhyphen"/>vigney, <hi>who agreed with me, that it would be the greateſt Advantage imaginable to his Maſter, to have the D's Power and Credit ſo far advanced</hi> — page 54. <hi>If we can advance the</hi> Duke's <hi>In<g ref="char:EOLhyphen"/>tereſt one ſtep forward, we ſhall put him out of the reach of Chance for ever.— Then would</hi> Ca<g ref="char:EOLhyphen"/>tholicks <hi>be at reſt, and his</hi> Moſt Chriſtian Majeſty's <hi>Intereſt ſecured with us in</hi> England, [mark that] <hi>beyond all Apprehenſions whatſoever; — Our prevailing in theſe things would give the greateſt</hi> BLOW <hi>to the</hi> Proteſtant Religion <hi>here, that ever it received from its birth.</hi>
+            </p>
+            <p>Page 55. <hi>If the</hi> D. <hi>ſhould once get above them, (after the tricks they have play'd with him) they are not ſure he will totally forget the <g ref="char:V">Ʋ</g>ſage he has had at their hands. For my part</hi> (ſayes he) <hi>I can ſcarce believe my ſelf awake, or the thing real, when I think on a</hi> Prince <hi>in ſuch an Age as we live in,</hi> converted <hi>to ſuch a degree of</hi> Zeal <hi>and</hi> Piety, <hi>as not to regard any thing in the World, in compariſon of — the Converſion of our poor Kingdom, which hath been a long time oppreſſed, and miſerably haraſſed with</hi> Hereſie <hi>and</hi> Schiſm, <hi>&amp;c.</hi>
+            </p>
+            <p>See the whole Letter in the D's own name in page 66. and 67. it being too long here to recite; but, in ſhort, the D. gives therein all Aſſurances imaginable to the <hi>French</hi> King's Con<g ref="char:EOLhyphen"/>feſſor.</p>
+            <p>Above all that paſſage in another Letter, page 69. ought never to be forgotten, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>We have here a Mighty Work upon our hands, no leſs than the Converſion of three Kingdomes, and by that perhaps the utter ſubduing of a peſtilent Hereſie which hath domineered over great part of the Northern World a long time; there were never</hi> ſuch hopes <hi>of Succeſs ſince the Death of our Queen</hi> Mary, <hi>as now in our dayes, when God has given us a</hi> Prince <hi>who is become (may I ſay a
+<pb n="4" facs="tcp:99128:3"/>Miracle) zealous of being the</hi> Author <hi>and</hi> Inſtrument <hi>of ſo glorious a Work— that which we rely upon moſt, next to God Almighty's Providence and the Favour of my Maſter the Duke, is the mighty mind of his moſt Chriſtian Majeſty.— I muſt confeſs, I think his Chriſtian Maje<g ref="char:EOLhyphen"/>ſtie's Temporal Intereſt is ſo much attracted to that of his</hi> R. H. <hi>(which can never be conſiderable but upon the Growth and Advancement of the Catholick Religion) that his Miniſters cannot give him better Advice,</hi> &amp;c.</p>
+            <p>I think, Gentlemen, here's enough, (and too much, God knows) to convince any wiſe man in <hi>England:</hi> Poſſibly we might have had enough to have filled a Volume, had not <hi>Coleman</hi> had time (after he was queſtioned) to burn ſo many of his Papers; theſe Letters aforeſaid he onely left as inconſiderable, and not worth his deſtroying.</p>
+            <p>Thirdly, If you are for the D. ſo conſequently for a Popiſh Succeſſor: are you not for Ar<g ref="char:EOLhyphen"/>bitrary Government, and againſt all Parliaments: is it not too notoriouſly known, that the D. hates our <hi>Parliaments</hi> with an implacable hatred; none ever ſet himſelf againſt our <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi> more than he; therefore, if he Succeed, adieu to all <hi>Parliaments:</hi> muſt you not expect to be Ruled by Force; if you ſubmit not to that, will he not call in Force enough from <hi>France,</hi> with whom he hath had ſuch a ſtrict League, and who would be glad of ſuch an opportunity to Aſſiſt him; ſo that you muſt expect nothing but a <hi>French</hi> Slavery at the beſt.</p>
+            <p>Beſides, it's not unknown, that the D. is a Wilful Perſon, and naturally moſt obſtinate; if you put the Power in his hands, he will not eaſily forget what our <hi>Parliaments</hi> have done, but would be glad to put an End to them; and then you muſt lye wholly at the mercy of ambitious Courtiers, and mercileſs Souldiers.</p>
+            <p>Sirs, Be not ſo weak as to let any of thoſe ſpecious Diſcourſes, ſpread abroad by the Je<g ref="char:EOLhyphen"/>ſuits, under the Notion of the Church of <hi>England</hi>-men, (as <hi>Coleman's</hi> Declaration was) to advance the D's Intereſt, or a <hi>Popiſh</hi> Succeſſor, deceive you: be not deluded, beguiled, and lulled aſleep, but be Watchful, Sober, and Conſiderate; look before you, and take care of your approaching Election of your <hi>Parliament-men</hi>; chuſe ſuch as you have had experi<g ref="char:EOLhyphen"/>ence of already to be Couragious and Faithful in this time of Danger to this our City, and the <hi>Proteſtant</hi> Religion: for if that once goes, our Liberty goes with it. Remember, <hi>Popery</hi> and <hi>Slavery</hi> are linked together: from which, Good Lord, for ever prevent and defend us.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99128:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
